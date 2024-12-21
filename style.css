@@ -1,0 +1,96 @@
+body {
+    height: 100vh;
+
+    background-color: hsl(234, 29%, 20%);
+
+    display: grid;
+    place-items: center;
+}
+
+
+.form-card {
+
+    position: relative;
+
+    width: 80%;
+    min-height: 80vh;
+    
+
+    display: flex;
+    justify-content: space-around;
+    
+    align-items: center;
+
+    padding: 18px 0 18px 0;
+
+
+    background-color: white;
+
+    border-radius: 20px;
+}
+
+.title {
+  /* Ajoutez vos styles ici */
+}
+
+.text {
+  /* Ajoutez vos styles ici */
+}
+
+.list {
+  /* Ajoutez vos styles ici */
+}
+
+form {
+  /* Ajoutez vos styles ici */
+}
+
+label {
+  /* Ajoutez vos styles ici */
+}
+
+input[type="email"] {
+  /* Ajoutez vos styles ici */
+}
+
+button#submit {
+  /* Ajoutez vos styles ici */
+}
+
+.bloc-gauche {
+    width: 50%;
+
+    margin: 35px;
+    
+}
+
+.bloc-droit {
+    width: 50%;
+    padding: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    width: 80%;
+
+}
+
+.sucess-message {
+    position: absolute;
+    visibility: hidden;
+}
+
+.title-sucess {
+  /* Ajoutez vos styles ici */
+}
+
+.text-sucess {
+  /* Ajoutez vos styles ici */
+}
+
+button#submit-sucess {
+  /* Ajoutez vos styles ici */
+}
